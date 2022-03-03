@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Figure
+comment1.params=phi
+comment1.target=Figure(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=t\ f
+comment3.target=double\ u(int,\ int)
+comment4.params=coordinate\ center
+comment4.target=int\ transform(double,\ int)
+comment5.params=value
+comment5.target=void\ setfx(int)
+comment6.params=value
+comment6.target=void\ setfy(int)
+comment7.params=value
+comment7.target=void\ setPhi(int)
+numComments=8

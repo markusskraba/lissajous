@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Animation
+comment1.params=
+comment1.target=Animation()
+comment2.params=delay
+comment2.target=void\ start(int)
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=fx\ fy
+comment4.target=void\ setF(int,\ int)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=set
+comment6.target=void\ setFx(int)
+comment7.params=set
+comment7.target=void\ setFy(int)
+numComments=8
